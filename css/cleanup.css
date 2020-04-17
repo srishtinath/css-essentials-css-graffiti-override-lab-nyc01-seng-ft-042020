@@ -10,3 +10,7 @@
 #wall > #tag-2 {
   display: none;
 }
+
+#tag-3.slick wicked {
+  display: none;
+}
