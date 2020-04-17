@@ -27,6 +27,6 @@ $0 {
   display: none;
 }
 
-a[alt="simple"]{
+#wall .parent div > div#tag-7.slick a[alt="simple"]{
   display: none;
 }
