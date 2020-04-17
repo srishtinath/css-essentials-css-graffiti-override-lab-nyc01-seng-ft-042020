@@ -23,7 +23,7 @@ $0 {
   display: none;
 }
 
-.parent div > div#tag-6 {
+.parent div:last-child > div#tag-6 {
   display: none;
 }
 
