@@ -20,5 +20,6 @@ $0 {
 }
 
 .parent #tag-5 .slick {
-  display: none;
+  display: block;
+  
 }
