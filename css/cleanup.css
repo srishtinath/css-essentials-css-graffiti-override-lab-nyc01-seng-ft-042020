@@ -27,6 +27,6 @@ $0 {
   display: none;
 }
 
-div.parent > div#tag-7.slick{
+div.parent > #tag-7.slick{
   display: none;
 }
